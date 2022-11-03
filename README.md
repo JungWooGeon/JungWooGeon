@@ -1,5 +1,5 @@
 ### Tech Stack
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=FFFFFF"> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JungWooGeon&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
