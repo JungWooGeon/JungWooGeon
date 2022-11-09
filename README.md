@@ -1,5 +1,5 @@
 ### Tech Stack
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JungWooGeon&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
